@@ -1,0 +1,2 @@
+main.cpp里面是epoll常规使用
+epoll_ET_pthread.cpp是epoll+多线程+非阻塞边缘触发模式ET
